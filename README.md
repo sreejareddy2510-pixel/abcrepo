@@ -1,3 +1,3 @@
 # Merge Conflict Demo
 
-Hello World
+Hello from Feature Branch
